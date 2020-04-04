@@ -10,7 +10,7 @@ class CompanyHome extends StatefulWidget {
 
 class CompanyHomeState extends State<CompanyHome> {
 
-  static AssetImage assetImage = AssetImage("images/images_app/argusoft.jpeg");
+  static AssetImage assetImage = AssetImage("images/images_app/argusoft.png");
   Image image = Image(image: assetImage);
 
   static AssetImage assetImage1 = AssetImage("images/images_app/crest.png");
@@ -28,13 +28,14 @@ class CompanyHomeState extends State<CompanyHome> {
       body: Container(
         child: ListView(
           children: <Widget>[
+
             ImageButton(
               children: <Widget>[],
               width: 91,
               height: 70,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/argusoft.jpeg"),
-              unpressedImage: Image.asset("images/images_app/argusoft.jpeg"),
+              pressedImage: Image.asset("images/images_app/argusoft.png"),
+              unpressedImage: Image.asset("images/images_app/argusoft.png"),
               onTap: (){
                 print("Test");
               },
@@ -69,8 +70,8 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 91,
               height: 70,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/exxat.jpeg"),
-              unpressedImage: Image.asset("images/images_app/exxat.jpeg"),
+              pressedImage: Image.asset("images/images_app/exxat.png"),
+              unpressedImage: Image.asset("images/images_app/exxat.png"),
               onTap: (){
                 print("Test");
               },
@@ -81,8 +82,8 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 91,
               height: 70,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/gateway.jpeg"),
-              unpressedImage: Image.asset("images/images_app/gateway.jpeg"),
+              pressedImage: Image.asset("images/images_app/gateway.png"),
+              unpressedImage: Image.asset("images/images_app/gateway.png"),
               onTap: (){
                 print("Test");
               },
