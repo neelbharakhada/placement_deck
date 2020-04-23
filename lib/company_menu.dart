@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:imagebutton/imagebutton.dart';
-import 'package:placement_deck/argusoft.dart';
-import 'package:placement_deck/crest.dart';
-import 'package:placement_deck/enfochips.dart';
-import 'package:placement_deck/exxat.dart';
-import 'package:placement_deck/gateway.dart';
-import 'package:placement_deck/medita.dart';
-import 'package:placement_deck/perfect_vip.dart';
-import 'package:placement_deck/promat.dart';
-import 'package:placement_deck/tata.dart';
-import 'package:placement_deck/tatvasoft.dart';
-import 'package:placement_deck/volansys.dart';
+import 'package:placement_deck/Information/argusoftInfo.dart';
+import 'package:placement_deck/Information/crestInfo.dart';
+import 'package:placement_deck/Information/enfochipsInfo.dart';
+import 'package:placement_deck/Information/exxatInfo.dart';
+import 'package:placement_deck/Information/gatewayInfo.dart';
+import 'package:placement_deck/Information/meditaInfo.dart';
+import 'package:placement_deck/Information/perfectVIPInfo.dart';
+import 'package:placement_deck/Information/promatInfo.dart';
+import 'package:placement_deck/Information/tataInfo.dart';
+import 'package:placement_deck/Information/tatvasoftInfo.dart';
+import 'package:placement_deck/Information/volansysInfo.dart';
 
 class CompanyHome extends StatefulWidget {
   @override
@@ -32,7 +32,7 @@ class CompanyHomeState extends State<CompanyHome> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xffAFCDFF),
+      backgroundColor: Color(0xffD3F0FF),
       appBar: AppBar(
         title: Text("Select Company"),
       ),
@@ -44,13 +44,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/argusoft.png"),
-              unpressedImage: Image.asset("images/images_app/argusoft.png"),
+              pressedImage: Image.asset("assets/images/images_app/argusoft.png"),
+              unpressedImage: Image.asset("assets/images/images_app/argusoft.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Argusoft()),
+                  MaterialPageRoute(builder: (context) => ArgusoftInfo()),
                 );
               },
             ),
@@ -60,13 +60,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/crest.png"),
-              unpressedImage: Image.asset("images/images_app/crest.png"),
+              pressedImage: Image.asset("assets/images/images_app/crest.png"),
+              unpressedImage: Image.asset("assets/images/images_app/crest.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Crest()),
+                  MaterialPageRoute(builder: (context) => CrestInfo()),
                 );
               },
             ),
@@ -76,13 +76,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/enfochips.png"),
-              unpressedImage: Image.asset("images/images_app/enfochips.png"),
+              pressedImage: Image.asset("assets/images/images_app/enfochips.png"),
+              unpressedImage: Image.asset("assets/images/images_app/enfochips.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Enfochips()),
+                  MaterialPageRoute(builder: (context) => EnfochipsInfo()),
                 );
               },
             ),
@@ -92,13 +92,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/exxat.png"),
-              unpressedImage: Image.asset("images/images_app/exxat.png"),
+              pressedImage: Image.asset("assets/images/images_app/exxat.png"),
+              unpressedImage: Image.asset("assets/images/images_app/exxat.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Exxat()),
+                  MaterialPageRoute(builder: (context) => ExxatInfo()),
                 );
               },
             ),
@@ -108,13 +108,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/gateway.png"),
-              unpressedImage: Image.asset("images/images_app/gateway.png"),
+              pressedImage: Image.asset("assets/images/images_app/gateway.png"),
+              unpressedImage: Image.asset("assets/images/images_app/gateway.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Gateway()),
+                  MaterialPageRoute(builder: (context) => GatewayInfo()),
                 );
               },
             ),
@@ -124,13 +124,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/medita.png"),
-              unpressedImage: Image.asset("images/images_app/medita.png"),
+              pressedImage: Image.asset("assets/images/images_app/medita.png"),
+              unpressedImage: Image.asset("assets/images/images_app/medita.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Medita()),
+                  MaterialPageRoute(builder: (context) => MeditaInfo()),
                 );
               },
             ),
@@ -140,13 +140,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/perfect_vip.png"),
-              unpressedImage: Image.asset("images/images_app/perfect_vip.png"),
+              pressedImage: Image.asset("assets/images/images_app/perfect_vip.png"),
+              unpressedImage: Image.asset("assets/images/images_app/perfect_vip.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => PerfectVIP()),
+                  MaterialPageRoute(builder: (context) => PerfectVIPInfo()),
                 );
               },
             ),
@@ -156,13 +156,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/promat.png"),
-              unpressedImage: Image.asset("images/images_app/promat.png"),
+              pressedImage: Image.asset("assets/images/images_app/promat.png"),
+              unpressedImage: Image.asset("assets/images/images_app/promat.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Promat()),
+                  MaterialPageRoute(builder: (context) => PromatInfo()),
                 );
               },
             ),
@@ -172,13 +172,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/tata.png"),
-              unpressedImage: Image.asset("images/images_app/tata.png"),
+              pressedImage: Image.asset("assets/images/images_app/tata.png"),
+              unpressedImage: Image.asset("assets/images/images_app/tata.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Tata()),
+                  MaterialPageRoute(builder: (context) => TataInfo()),
                 );
               },
             ),
@@ -188,13 +188,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/tatvasoft.png"),
-              unpressedImage: Image.asset("images/images_app/tatvasoft.png"),
+              pressedImage: Image.asset("assets/images/images_app/tatvasoft.png"),
+              unpressedImage: Image.asset("assets/images/images_app/tatvasoft.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Tatvasoft()),
+                  MaterialPageRoute(builder: (context) => TatvasoftInfo()),
                 );
               },
             ),
@@ -204,13 +204,13 @@ class CompanyHomeState extends State<CompanyHome> {
               width: 191,
               height: 170,
               paddingTop: 5,
-              pressedImage: Image.asset("images/images_app/volansys.png"),
-              unpressedImage: Image.asset("images/images_app/volansys.png"),
+              pressedImage: Image.asset("assets/images/images_app/volansys.png"),
+              unpressedImage: Image.asset("assets/images/images_app/volansys.png"),
               onTap: () {
                 print("Test");
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Volansys()),
+                  MaterialPageRoute(builder: (context) => VolansysInfo()),
                 );
               },
             ),

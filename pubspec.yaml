@@ -43,17 +43,19 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/images_app/argusoft.png
-    - images/images_app/crest.png
-    - images/images_app/enfochips.png
-    - images/images_app/exxat.png
-    - images/images_app/gateway.png
-    - images/images_app/medita.png
-    - images/images_app/perfect_vip.png
-    - images/images_app/promat.png
-    - images/images_app/tata.png
-    - images/images_app/tatvasoft.png
-    - images/images_app/volansys.png
+    - assets/images/images_app/argusoft.png
+    - assets/images/images_app/crest.png
+    - assets/images/images_app/enfochips.png
+    - assets/images/images_app/exxat.png
+    - assets/images/images_app/gateway.png
+    - assets/images/images_app/medita.png
+    - assets/images/images_app/perfect_vip.png
+    - assets/images/images_app/promat.png
+    - assets/images/images_app/tata.png
+    - assets/images/images_app/tatvasoft.png
+    - assets/images/images_app/volansys.png
+    - assets/interview_data.json
+    - assets/company_details.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
