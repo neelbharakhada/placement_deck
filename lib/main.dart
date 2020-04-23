@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:placement_deck/company_menu.dart';
+import 'package:placement_deck/items.dart';
 
 void main() {
   runApp(MaterialApp(
@@ -20,7 +21,7 @@ class WelcomeState extends State<WelcomeWidget> {
   Widget build(BuildContext context) {
     // TODO: implement build
     return Scaffold(
-      backgroundColor: Color(0xffAFCDFF),
+      backgroundColor: Color(0xffD3F0FF),
       appBar: AppBar(title: Text("Placement Deck")),
       body: Container(
         child: ListView(
@@ -30,7 +31,6 @@ class WelcomeState extends State<WelcomeWidget> {
               child: SizedBox(
                 height: 50.0,
                 child: RaisedButton(
-
                   color: Colors.blueAccent,
                   onPressed: () {
                     Navigator.push(

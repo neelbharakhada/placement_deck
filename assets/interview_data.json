@@ -1,0 +1,104 @@
+
+[
+  {
+    "Company Name:": "Volansys Technologies",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "Good enough to test your knowledge about basics to core concepts of the technologies you've written as skills.",
+    "Domain based Question:": "Database Management Systems, Data Structure and Algorithms, Cryptography and Security, Web Technologies, Blockchain, C, C++, Java, Python",
+    "HR Interview Questions:": "Common like what do you expect from us.. where do you see yourself in 5 years.. then explaining company policies.. ",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), Mock interviews for more students..."
+  },
+  {
+    "Company Name:": "Crest Data Systems",
+
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview\nOnline Test, Technical Interview, HR Interview, Management Interview\nOnline Test, Technical Interview, HR Interview\nOnline Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "Write a python program, more discussion about project\nMostly based on Resume\n1) Networking related questions\n2) Project based questions\n3) Explain all the projects\n- Explain the program given to you in the online test\n- how you solve the problem\n- enter different inputs into you script and explain the behaviour of it. (this question may asked to see the thinking capacity of the candidate, that how much they think while programming) \n- Difference between python version 2.7 and 3.7\n- fibonacci program\n- palindrome no. program\n- find string length without use of library functions\n- coding standards\n- project related questions\n1. What is OOPs concept?\n2. DBMS querys\n3. Write logic of some programs\nQuestions based on puzzle solving and some logical reasoning questions.\nArea of Interest, What is SSL?, Different algorithms for Encryption/Decryption\nA scenario was given in which 2nd normalization was to be applied.\nCreate an app like Facebook, such that people use your app more than facebook's.\nWhich algorithms are used in cryptography?\nPython code related to keyword arguments.\nMostly on concepts of Cloud and some good aptitude problem solving questions\nRegular expression, SQL query, Obejct Oriented Programming, Python, Data structure probelm.\nMostly DSA based problem solving situations.\n1. Write the code for fibonacci series using recursion 2. Write the code for factorial using recursion 3. Logical question and approach to how to code that question 4. Abstraction (OOPs Concept) based live example scenario 5. Normalization for given table 6. Regular Expression\nQuestions were like, they were checking whether our basics were clear or not.",
+    "Domain based Question:": "Operating System, Python\nComputer Networks, Operating System, Web Technologies, Cloud Computiong\nComputer Networks, Cloud Computiong, Machine Learning, C\nEverything based on the online round\nDatabase Management Systems, Data Structure and Algorithms, C, Java, Python\nDatabase Management Systems, Data Structure and Algorithms\nOperating System, Database Management Systems, Java\nData Structure and Algorithms, Cryptography and Security, Cloud Computiong\nDatabase Management Systems, Cryptography and Security, Python\nComputer Networks, Cloud Computiong\nDatabase Management Systems, Data Structure and Algorithms, Python\nComputer Networks, Data Structure and Algorithms, Cloud Computiong\nDatabase Management Systems, Data Structure and Algorithms, C, C++, Regular Expression\nOperating System, Database Management Systems, Data Structure and Algorithms, C++",
+    "HR Interview Questions:": "Hobbies, what do you do in your free time, why do you want to join industry\nIntroduction, Hobbies, What if I am offered 100 CR - what would I do?\n1) what are your achievements\n2) family background\n3) what you like about company and why you choose this company?\n4) Strengths and weaknesses\n5) tell us about yourself\n- Why you want to join Crest\n- (based on previous question: As you said you may have good growth in the company) Do you know anyone from the company? \n- About myself\n- family background\n- strength and weakness\n- ready to work on weekend\n1. Introduction\n2. What kind of environment you would like to work in?\n3. Situation base questions\n4. Do you think you are suitable for this profile?\nBasic Introduction. Some situation based questions like \" If given an option to choose from X Y Or Z profiles which you would opt for? And Why?\nWhat would you do if you get 100cr lottery\nAre you ready to work for weekends and get leave on Thursday and Friday\nAre you willing to work in night shift\nWhy crest?\nHow many years you will stay in Crest?\nWhy should I hire you?\nFamily Background\nMostly about how you will be sticking to the company.\n1. Tell us about ourself.\n2. what is your weakness? and what efforts you make to overcome it ?\nBond, SWOT analysis\n1. Tell me about yourself 2. What do you know about Crest ? 3. Willing to work on weekends ? 4. Hobbies 5. Willing to work in any new technology in future which is not assigned to you ?\nQuestions to check how our mind responses to various situations.",
+    "Telephonic Interview/Video Interview Questions:": "-\nNo telephonic interview\nNA\nNA",
+    "Group Discussion Topics:": "-\nNot group discussion was there\nNA\nNA",
+    "Other Rounds If Any:": "Interview with CTO\nNA\nHow will you handle the situation if you are doing some work on customer's instance and are facing some problem. No senior is available on the floor. \nNA",
+    "Your Suggestions for Placement Preparations:": "Participation in Tech/Non-Tech Events, Individual GitHub Profile\nParticipation in Tech/Non-Tech Events, Workshops, Management Activities\nCompetitive Coding (Hacker Rank, CodeChef), Individual GitHub Profile, Aptitude preparation,all the programming language basic concepts clear\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Management Activities, Individual GitHub Profile, Develop confidence in your self, it is not one day process. \nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Individual GitHub Profile\nCompetitive Coding (Hacker Rank, CodeChef), Workshops\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Workshops, Individual GitHub Profile, GD, Communication Skills\nCompetitive Coding (Hacker Rank, CodeChef), Individual GitHub Profile\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Management Activities, Have mock interviews so it can boost an indivuals confidence\nCompetitive Coding (Hacker Rank, CodeChef), Individual GitHub Profile\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Workshops, Management Activities, Individual GitHub Profile\nIndividual GitHub Profile, Should be more clear about basic concept of Data Structure and Algorithm, DBMS, OP and Networking\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Workshops, Management Activities, Individual GitHub Profile, Keep your basics clear. They just want to know how you grab the things."
+  },
+  {
+    "Company Name:": "The Gateway Corp",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "Questions related my academic projects\nQuestion based on resume and project which we make throughout our curriculum\nAll the basic concepts\nThe main focus on the technical questions was to check the concepts (OOPS, Database).\nAlso technical questions related to the SGP were asked. I was given a real time scenario and was asked to mention its implemention in detail with database structure.\nBasic OOPs questions, Javascript questions, Project Related questions and questions based on technologies you prefer\nJust asked me about the projects I did during my engineering",
+    "Domain based Question:": "Database Management Systems, Web Technologies\nComputer Networks, Data Structure and Algorithms, Web Technologies, Cloud Computiong, C, C++, Java\nDatabase Management Systems, Data Structure and Algorithms, Web Technologies, Machine Learning, C, C++\nDatabase Management Systems, Data Structure and Algorithms, Web Technologies, Cloud Computiong, C, C++, Java\nData Structure and Algorithms, Cryptography and Security, Web Technologies, C, C++, Java, Python\nAndroid Programming(Kotlin)",
+    "HR Interview Questions:": "1. Introduction of family\n2. Can you adjust yourself with any technology given by us\nabout family background and Bond of the company\nIntroduction and project based questions\nThe only thing that matters the most in any HR Interview rounds is your core Values and Ethics.\nTell me something about yourself, Where do you see yourself after 5 years, Are you willing to relocate, etc\n1. Tell me about yourself 2. Are you willing to work in a team? 3. What kind of tech you would want to work on? 4. Why did you choose this company? etc",
+    "Telephonic Interview/Video Interview Questions:": "NA",
+    "Group Discussion Topics:": "NA",
+    "Other Rounds If Any:": "NA",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), Individual GitHub Profile\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Workshops\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Workshops, Management Activities, Individual GitHub Profile, Aptitude\nCompetitive Coding (Hacker Rank, CodeChef), Management Activities, Individual GitHub Profile\nIndividual GitHub Profile, Practice for aptitude"
+  },
+  {
+    "Company Name:": "Tatva Soft",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "oops ,SQL, logical of cod, projects",
+    "Domain based Question:": "Database Management Systems, Data Structure and Algorithms, oops ",
+    "HR Interview Questions:": "why you want to job here?,    job setisfaction or Money setisfaction ?",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), if any person wants to go for developers profile that person must full practice of Coding."
+  },
+  {
+    "Company Name:": "PerfectVIPs Techno Solutions PVT LTD",
+    "Selection Procedure for the Company:": "Written Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "What are different data types available in c?\nWhat will be output of  given c codes?\nWhat are the library you have used in python?\nCompiler vs interpreter",
+    "Domain based Question:": "C, Python",
+    "HR Interview Questions:": "What do you expect from company?\nWhere do you see yourself in the next 5 years?\nTell me about your family.\n",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), Individual GitHub Profile"
+  },
+  {
+    "Company Name:": "Meditab Software Inc.",
+    "Selection Procedure for the Company:": "Written Test, Online Test, Technical Interview, HR Interview\nOnline Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "Logical, database and project related\nBasics of database.\nBasics of oops.\nLogical questions.\nAbout projects.",
+    "Domain based Question:": "Database Management Systems, Data Structure and Algorithms, C++\nDatabase Management Systems, Data Structure and Algorithms, Java",
+    "HR Interview Questions:": "About myself and company policy\nPlan for future.\nThoughts about company.\nOverview of college life.",
+    "Telephonic Interview/Video Interview Questions:": "NA",
+    "Group Discussion Topics:": "NA",
+    "Other Rounds If Any:": "NA",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Management Activities, Individual GitHub Profile\nCompetitive Coding (Hacker Rank, CodeChef), Individual GitHub Profile"
+  },
+  {
+    "Company Name:": "Exxat Systems",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "Mostly on SQL",
+    "Domain based Question:": "Database Management Systems",
+    "HR Interview Questions:": "Personal questions only.",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Individual GitHub Profile"
+  },
+  {
+    "Company Name:": "Argusoft",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview",
+    "Technical Interview Questions:": "Related to data.structure",
+    "Domain based Question:": "Data Structure and Algorithms, C, C++, Java",
+    "HR Interview Questions:": "N/a",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Individual GitHub Profile"
+  },
+  {
+    "Company Name:": "Promact infotech ltd.",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview\nTechnical Interview, HR Interview,  coding test",
+    "Technical Interview Questions:": "CODING \nAll questions was about data structures.",
+    "Domain based Question:": "Database Management Systems, Web Technologies, C, C++\nData Structure and Algorithms",
+    "HR Interview Questions:": "Elaborate your strength and also prove your strength  \nAbout my career goals",
+    "Your Suggestions for Placement Preparations:": "Management Activities, Individual GitHub Profile\nCompetitive Coding (Hacker Rank, CodeChef), Participation in Tech/Non-Tech Events, Workshops, Management Activities, Individual GitHub Profile, English Proficiency for good measure"
+  },
+  {
+    "Company Name:": "Tata Consultancy Services",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview, Managerial Interview\nOnline Test, Technical Interview, HR Interview, Management Round\nTechnical Interview, HR Interview",
+    "Technical Interview Questions:": "1) Academic project based\n2) Write a program in java for finding 3rd largest number among 10 numbers using Shortest time complexity sorting algorithm in any situation.\nMostly Project Based Questions & OOPs & DBMS\nWhat are programming language you prefer?Why?\nWhat is cloud computing?\nAdvantages of cloud computing.\nHow you prepare for the certification?\nDisaster recovery techniques in AWS.\nSecurity measures in AWS.\nHow you connect On-premises to AWS?\nsome questions related to projects.",
+    "Domain based Question:": "Database Management Systems, Data Structure and Algorithms, Java\nDatabase Management Systems, Data Structure and Algorithms, Java, Depends on you have written on yourresume \nData Structure and Algorithms, Cloud Computiong, C, C++, Java",
+    "HR Interview Questions:": "Flexibility for any location, any shifting time and any technology.\nFlexibility & Normal questions\nWhy you choose AWS?\nHave you problem with any location?\nSomething other than your resume.\nTell me about yourself.",
+    "Telephonic Interview/Video Interview Questions:": "NA",
+    "Group Discussion Topics:": "NA",
+    "Other Rounds If Any:": "NA",
+    "Your Suggestions for Placement Preparations:": "Competitive Coding (Hacker Rank, CodeChef), Communication Skills\nCompetitive Coding (Hacker Rank, CodeChef), Individual GitHub Profile, Let them develop end to end project with advanced frameworks which are being used in corporate.\nWorkshops, Projects & Certification"
+  },
+  {
+    "Company Name:": "Einfochips",
+    "Selection Procedure for the Company:": "Online Test, Technical Interview, HR Interview",
+    "Technical Interview Questions:": "OOPS CONCEPTS,DSA,DBMS",
+    "Domain based Question:": "Database Management Systems, Java",
+    "HR Interview Questions:": "how much time will you give to this company?, How much friends do you have in college?, Tell me something about your family?,  what is your daily routine?, how your hobbies are different from other?",
+    "Your Suggestions for Placement Preparations:": "Participation in Tech/Non-Tech Events, start preparing before 2 months of placements, parallel learn the aptitude and basic subjects like dbms dsa os and core languages like java and should have clear concepts on the projects that he/she has done during the academics also the no of certifications and cocurricular activites matters a lot."
+  }
+]
