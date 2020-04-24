@@ -31,195 +31,198 @@ class CompanyHomeState extends State<CompanyHome> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Color(0xffD3F0FF),
-      appBar: AppBar(
-        title: Text("Select Company"),
-      ),
-      body: Container(
-        child: ListView(
-          children: <Widget>[
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/argusoft.png"),
-              unpressedImage: Image.asset("assets/images/images_app/argusoft.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => ArgusoftInfo()),
-                );
-              },
-            ),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        backgroundColor: Color(0xffD3F0FF),
+        appBar: AppBar(
+          title: Text("Select Company"),
+        ),
+        body: Container(
+          child: ListView(
+            children: <Widget>[
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/argusoft.png"),
+                unpressedImage: Image.asset("assets/images/images_app/argusoft.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => ArgusoftInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/crest.png"),
-              unpressedImage: Image.asset("assets/images/images_app/crest.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => CrestInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/crest.png"),
+                unpressedImage: Image.asset("assets/images/images_app/crest.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => CrestInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/enfochips.png"),
-              unpressedImage: Image.asset("assets/images/images_app/enfochips.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => EnfochipsInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/enfochips.png"),
+                unpressedImage: Image.asset("assets/images/images_app/enfochips.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => EnfochipsInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/exxat.png"),
-              unpressedImage: Image.asset("assets/images/images_app/exxat.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => ExxatInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/exxat.png"),
+                unpressedImage: Image.asset("assets/images/images_app/exxat.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => ExxatInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/gateway.png"),
-              unpressedImage: Image.asset("assets/images/images_app/gateway.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => GatewayInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/gateway.png"),
+                unpressedImage: Image.asset("assets/images/images_app/gateway.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => GatewayInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/medita.png"),
-              unpressedImage: Image.asset("assets/images/images_app/medita.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => MeditaInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/medita.png"),
+                unpressedImage: Image.asset("assets/images/images_app/medita.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => MeditaInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/perfect_vip.png"),
-              unpressedImage: Image.asset("assets/images/images_app/perfect_vip.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => PerfectVIPInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/perfect_vip.png"),
+                unpressedImage: Image.asset("assets/images/images_app/perfect_vip.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => PerfectVIPInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/promat.png"),
-              unpressedImage: Image.asset("assets/images/images_app/promat.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => PromatInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/promat.png"),
+                unpressedImage: Image.asset("assets/images/images_app/promat.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => PromatInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/tata.png"),
-              unpressedImage: Image.asset("assets/images/images_app/tata.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => TataInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/tata.png"),
+                unpressedImage: Image.asset("assets/images/images_app/tata.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => TataInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/tatvasoft.png"),
-              unpressedImage: Image.asset("assets/images/images_app/tatvasoft.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => TatvasoftInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/tatvasoft.png"),
+                unpressedImage: Image.asset("assets/images/images_app/tatvasoft.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => TatvasoftInfo()),
+                  );
+                },
+              ),
 
-            ImageButton(
-              children: <Widget>[],
-              width: 191,
-              height: 170,
-              paddingTop: 5,
-              pressedImage: Image.asset("assets/images/images_app/volansys.png"),
-              unpressedImage: Image.asset("assets/images/images_app/volansys.png"),
-              onTap: () {
-                print("Test");
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => VolansysInfo()),
-                );
-              },
-            ),
+              ImageButton(
+                children: <Widget>[],
+                width: 191,
+                height: 170,
+                paddingTop: 5,
+                pressedImage: Image.asset("assets/images/images_app/volansys.png"),
+                unpressedImage: Image.asset("assets/images/images_app/volansys.png"),
+                onTap: () {
+                  print("Test");
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => VolansysInfo()),
+                  );
+                },
+              ),
 
 //            image,
 //            image1,
 //            image2,
 //            Image.asset("images/images_app/exxat.jpeg")
-          ],
+            ],
+          ),
         ),
       ),
     );

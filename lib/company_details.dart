@@ -26,7 +26,7 @@ class Companydetails {
   });
 
   factory Companydetails.fromJson(Map<String, dynamic> json) => Companydetails(
-    companyName: json["company name"],
+    companyName: json["companyName"],
     location: json["location"],
     about: json["about"],
     specialities: json["specialities"],
@@ -35,7 +35,7 @@ class Companydetails {
   );
 
   Map<String, dynamic> toJson() => {
-    "company name": companyName,
+    "companyName": companyName,
     "location": location,
     "about": about,
     "specialities": specialities,
